@@ -1,0 +1,45 @@
+h1,
+h2,
+h3,
+p {
+  font-family: Helvetica, Arial, sans-serif;
+}
+
+p {
+  font-weight: 16px;
+}
+
+.background_blue {
+  background-color: SkyBlue;
+}
+.background_green {
+  background-color: MediumSpringGreen;
+}
+.background_red {
+  background-color: LightCoral;
+}
+
+h1 {
+  color: Khaki;
+  font-size: 100px;
+  font-weight: bold;
+  height: 125px;
+  text-align: center;
+  background-image: url("../images/pattern1.jpeg");
+}
+
+h2 {
+  color: white;
+  font-weight: bold;
+  font-size: 32px;
+}
+
+.priceing_unit {
+  font-weight: bold;
+  color: blue;
+}
+
+.starting_price {
+  font-weight: bold;
+  color: blue;
+}
